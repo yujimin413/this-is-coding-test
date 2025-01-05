@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -7,7 +7,7 @@ int main() {
     int str[20];
     scanf("%s", str);
 
-    for (int i = 0; i < strlen(str); i++) {
+    // for (int i = 0; i < strlen(str); i++) {
 
-    }
+    // }
 }
