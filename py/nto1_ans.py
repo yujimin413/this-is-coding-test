@@ -14,3 +14,4 @@ while True:
 
 result += (n - 1)
 print(result)
+print(result)
